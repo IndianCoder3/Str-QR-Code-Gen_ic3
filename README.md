@@ -7,6 +7,8 @@ Built by **IndianCoder3** 🚀
 
 🚀 **Live App:** https://qr-code-gen-ic3.streamlit.app/ (Last Update: 29/12/2025)
 
+**View alternate (ttkbootstrap) QR Code Generator:** https://github.com/IndianCoder3/QR-Code-Gen_ic3
+
 ---
 
 ## ✨ Features
