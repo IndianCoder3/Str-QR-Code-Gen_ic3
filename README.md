@@ -48,7 +48,7 @@ Built by **IndianCoder3** 🚀
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/IndianCoder3/qr-streamlit-app.git
+git clone https://github.com/IndianCoder3/Str-QR-Code-Gen_ic3.git
 cd qr-streamlit-app
 ```
 
